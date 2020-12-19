@@ -1,3 +1,3 @@
 Weather-App
 
-https://sourabh-kanojia-weather-app.herokuapp.com/
+https://sourabh-kanojia-weather-app.herokuapp.com
